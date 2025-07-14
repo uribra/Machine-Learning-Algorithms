@@ -1,0 +1,7 @@
+numpy 
+matplotlib
+os
+gzip
+urllib
+sklearn
+jupyter
